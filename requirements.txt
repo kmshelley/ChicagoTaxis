@@ -1,0 +1,6 @@
+elasticsearch
+pandas
+-e git+https://github.com/SohierDane/BigQuery_Helper#egg=bq_helper
+
+
+
